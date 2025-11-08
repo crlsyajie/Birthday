@@ -610,6 +610,10 @@ body {
     margin-top: 10px;
   }
 
+  .wishText{
+    font-size: 0.5rem;
+  }
+  
   .wish-hbd {
     font-size: 1.1rem;
     margin: 5px 0;
